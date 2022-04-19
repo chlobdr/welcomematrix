@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: blueviolet;
+  font-size: 25px;
+  font-family: Calibri;
+}
+h1{
+  font-family: Segoe;
+  color: darkcyan;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: blueviolet;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
